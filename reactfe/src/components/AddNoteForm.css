@@ -1,0 +1,29 @@
+/* form {
+    display: flex;
+  }
+.form{
+  width: 40vw;
+
+}
+  input[type='text'] {
+    flex: 3;
+    width:500px;
+    height:50px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px; 
+     margin-right: 8px; 
+  }
+  
+  button[type='submit'] {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .form-control {
+    width: 500px;
+    height: 200px;
+} */

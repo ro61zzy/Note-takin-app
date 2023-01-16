@@ -1,0 +1,13 @@
+/* .note-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    grid-gap: 16px;
+} */
+.notes-container .note-card {
+    width: 400px;
+    height: 500px;
+    margin: 20px;
+    background-color: #eee;
+    box-shadow: 2px 2px 2px #ccc;
+ }
+ 
